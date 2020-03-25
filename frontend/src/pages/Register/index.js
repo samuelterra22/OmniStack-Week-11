@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
-import { Link, useHistory }            from 'react-router-dom'
-import { FiArrowLeft }     from 'react-icons/fi'
+import React, { useState }  from 'react'
+import { Link, useHistory } from 'react-router-dom'
+import { FiArrowLeft }      from 'react-icons/fi'
 import './style.css'
 
 import api     from '../../services/api'
